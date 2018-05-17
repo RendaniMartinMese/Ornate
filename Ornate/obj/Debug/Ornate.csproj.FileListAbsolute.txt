@@ -1,0 +1,107 @@
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\Ornate.exe.config
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\Ornate.exe
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\Ornate.pdb
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\obj\Debug\Ornate.csprojResolveAssemblyReference.cache
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\obj\Debug\Ornate.Form1.resources
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\obj\Debug\Ornate.Properties.Resources.resources
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\obj\Debug\Ornate.csproj.GenerateResource.Cache
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\obj\Debug\Ornate.exe
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\obj\Debug\Ornate.pdb
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\Antlr3.Runtime.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\itextsharp.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\itextsharp.licensekey.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\itextsharp.pdfa.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\itextsharp.xfaworker.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\Jint.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\log4net.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\itextsharp.xml
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\CsvReader.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\IKVM.Runtime.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\libsvm.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\LIBSVM.NET.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\MetroFramework.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\bin\Debug\CsvReader.xml
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\obj\Debug\Ornate.NotesSynthesisControl.resources
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\obj\Debug\Ornate.NotesViewControl.resources
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\obj\Debug\Ornate.SettingsControl.resources
+C:\Users\RENDANI MARTIN MESE\Desktop\Ornate\Ornate\obj\Debug\ScottPlot.ScottPlotUC.resources
+C:\Ornate\Ornate\bin\Debug\Ornate.exe.config
+C:\Ornate\Ornate\bin\Debug\Accord.dll.config
+C:\Ornate\Ornate\bin\Debug\Ornate.exe
+C:\Ornate\Ornate\bin\Debug\Ornate.pdb
+C:\Ornate\Ornate\bin\Debug\Accord.dll
+C:\Ornate\Ornate\bin\Debug\Antlr3.Runtime.dll
+C:\Ornate\Ornate\bin\Debug\CsvReader.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.Runtime.dll
+C:\Ornate\Ornate\bin\Debug\itextsharp.dll
+C:\Ornate\Ornate\bin\Debug\itextsharp.licensekey.dll
+C:\Ornate\Ornate\bin\Debug\itextsharp.pdfa.dll
+C:\Ornate\Ornate\bin\Debug\itextsharp.xfaworker.dll
+C:\Ornate\Ornate\bin\Debug\itextsharp.xmlworker.dll
+C:\Ornate\Ornate\bin\Debug\Jint.dll
+C:\Ornate\Ornate\bin\Debug\libsvm.dll
+C:\Ornate\Ornate\bin\Debug\LIBSVM.NET.dll
+C:\Ornate\Ornate\bin\Debug\log4net.dll
+C:\Ornate\Ornate\bin\Debug\MetroFramework.dll
+C:\Ornate\Ornate\bin\Debug\MetroFramework.Fonts.dll
+C:\Ornate\Ornate\bin\Debug\NAudio.dll
+C:\Ornate\Ornate\bin\Debug\Accord.xml
+C:\Ornate\Ornate\bin\Debug\CsvReader.xml
+C:\Ornate\Ornate\bin\Debug\itextsharp.xml
+C:\Ornate\Ornate\bin\Debug\NAudio.xml
+C:\Ornate\Ornate\obj\Debug\Ornate.Form1.resources
+C:\Ornate\Ornate\obj\Debug\Ornate.Properties.Resources.resources
+C:\Ornate\Ornate\obj\Debug\Ornate.csproj.GenerateResource.Cache
+C:\Ornate\Ornate\obj\Debug\Ornate.exe
+C:\Ornate\Ornate\obj\Debug\Ornate.pdb
+C:\Ornate\Ornate\bin\Debug\LibSVMsharp.dll
+C:\Ornate\Ornate\bin\Debug\LibSVMsharp.pdb
+C:\Ornate\Ornate\obj\Debug\Ornate.csprojResolveAssemblyReference.cache
+C:\Ornate\Ornate\bin\Debug\ejml-0.23.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Ornate\Ornate\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Ornate\Ornate\bin\Debug\javax.json.dll
+C:\Ornate\Ornate\bin\Debug\joda-time.dll
+C:\Ornate\Ornate\bin\Debug\jollyday.dll
+C:\Ornate\Ornate\bin\Debug\protobuf.dll
+C:\Ornate\Ornate\bin\Debug\slf4j-api.dll
+C:\Ornate\Ornate\bin\Debug\slf4j-simple.dll
+C:\Ornate\Ornate\bin\Debug\stanford-corenlp-3.9.1.dll
+C:\Ornate\Ornate\bin\Debug\xom.dll
+C:\Ornate\Ornate\bin\Debug\Bayes.dll
+C:\Ornate\Ornate\bin\Debug\Stemmer.dll
+C:\Ornate\Ornate\bin\Debug\ark-tweet-nlp-0.3.2.dll
